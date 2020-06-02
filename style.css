@@ -1,0 +1,244 @@
+h1 {
+    text-align: center;
+}
+
+p {
+
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 380px;
+    text-align: center;
+}
+
+body {
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+html {
+    height: 100%
+}
+
+
+.container .logo {
+
+
+    margin-top: 35px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+}
+
+.container .text {
+
+    margin-top: 0px;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+
+    background: linear-gradient(to right, #bb892c 0%, #f9ed9e 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.container .buttons {}
+
+.container .buttons .buttonLeft {
+    
+    
+    
+ text-align: center;
+    
+    /*display: inline-block;
+    margin-top: 40px;
+    position: absolute;
+    top: 32%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);*/
+}
+
+.container .buttons .buttonRight {
+
+ 
+
+    /*display: inline-block;
+    margin-top: 40px;
+
+    top: 32%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);*/
+
+}
+
+.container .phonePics {
+
+    margin-top: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+
+
+}
+
+.container .icons {
+
+    margin-top: 290px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+
+
+}
+
+
+/*
+h1 {
+
+    margin: 50px auto 0px auto;
+    font-family: 'Amatic SC', cursive;
+    font-weight: normal;
+    font-size: 90px;
+    color: #eeeeee;
+    display: inline;
+}
+
+h1:hover {
+    color: orange;
+}
+
+h2 {
+    color: #eeeeee;
+    font-family: 'Rokkitt', serif;
+    font-size: 40px;
+    font-weight: normal
+}
+
+
+
+h3 {
+
+    font-family: 'Comic Neue', cursive;
+    ;
+    font-size: 45pxf;
+    font-weight: normal;
+}
+
+
+
+body {
+   
+}
+
+
+.tc {
+
+    margin-bottom: 0px;
+
+    background-color: #00adb5;
+    padding-top: 100px;
+
+    text-align: center;
+    height: 650px;
+}
+
+.tc .topcloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.tc .botcloud {
+
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+
+
+.tc .mountain {
+
+    position: relative;
+    width:250px;
+
+    z-index: 900;
+
+
+
+}
+
+
+.mc .box .box1 {
+    width: 50%;
+   
+
+
+
+    z-index: 950;
+    background-color: #303841;
+
+}
+
+
+.mc .box .box1 .aliimg {
+
+    width: 29%;
+    float: right;
+    margin: 100px 50px 50px 10px;
+}
+
+.mc .box .box1 .text1 {
+    float: left;
+    color: #eeeeee;
+    margin-top: 100px;
+    margin-left: 50px;
+    display: block;
+
+}
+
+.mc .box .box2 {
+
+    z-index: 950;
+    background-color: #eeeeee;
+
+
+}
+
+
+
+.mc .box .box2 .abimg {
+    width: 15%;
+    float: left;
+    margin: 100px 50px 50px 50px;
+
+
+
+}
+
+.mc .box .box2 .text2 {
+
+    float: right;
+    margin-top: 100px;
+    margin-right: 50px;
+    display: block;
+
+
+}
+*/
